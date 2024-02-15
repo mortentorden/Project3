@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe  @CMakeFiles/project3.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\project3.dir\\src\\config.cpp.obj -c \"C:\\Users\\morte\\OneDrive - Danmarks Tekniske Universitet\\Project3\\src\\config.cpp\"",
+  "file": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/src/config.cpp",
+  "output": "CMakeFiles/project3.dir/src/config.cpp.obj"
+},
+{
+  "directory": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe  @CMakeFiles/project3.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\project3.dir\\src\\main.cpp.obj -c \"C:\\Users\\morte\\OneDrive - Danmarks Tekniske Universitet\\Project3\\src\\main.cpp\"",
+  "file": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/src/main.cpp",
+  "output": "CMakeFiles/project3.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang.exe  @CMakeFiles/project3.dir/includes_C.rsp -g -o CMakeFiles\\project3.dir\\src\\glad.c.obj -c \"C:\\Users\\morte\\OneDrive - Danmarks Tekniske Universitet\\Project3\\src\\glad.c\"",
+  "file": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/src/glad.c",
+  "output": "CMakeFiles/project3.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe  @CMakeFiles/project3.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\project3.dir\\src\\processInput.cpp.obj -c \"C:\\Users\\morte\\OneDrive - Danmarks Tekniske Universitet\\Project3\\src\\processInput.cpp\"",
+  "file": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/src/processInput.cpp",
+  "output": "CMakeFiles/project3.dir/src/processInput.cpp.obj"
+},
+{
+  "directory": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe  @CMakeFiles/project3.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\project3.dir\\src\\cube.cpp.obj -c \"C:\\Users\\morte\\OneDrive - Danmarks Tekniske Universitet\\Project3\\src\\cube.cpp\"",
+  "file": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/src/cube.cpp",
+  "output": "CMakeFiles/project3.dir/src/cube.cpp.obj"
+},
+{
+  "directory": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe  @CMakeFiles/project3.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\project3.dir\\src\\camera.cpp.obj -c \"C:\\Users\\morte\\OneDrive - Danmarks Tekniske Universitet\\Project3\\src\\camera.cpp\"",
+  "file": "C:/Users/morte/OneDrive - Danmarks Tekniske Universitet/Project3/src/camera.cpp",
+  "output": "CMakeFiles/project3.dir/src/camera.cpp.obj"
+}
+]
